@@ -1,3 +1,0 @@
-hello from both
-git add conflict.txt
-git commit -m "Resolve merge conflict"
